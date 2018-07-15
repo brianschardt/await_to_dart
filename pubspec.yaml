@@ -1,0 +1,9 @@
+name: await_to_dart
+description: dart plugin that allows you to await for futures without using try and catch blocks
+author: Brian Schardt <brian.ja.schardt@gmail.com>
+homepage:
+version: 0.0.1
+
+environment:
+   sdk: '>=1.12.0 <2.0.0'
+
